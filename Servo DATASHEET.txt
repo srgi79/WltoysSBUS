@@ -1,0 +1,12 @@
+Marca: Wltoys
+Adecuado para: Wltoys 12428 coche RC
+La banda muerta: 2µs
+Frecuencia de funcionamiento: 1520µs/330Hz
+Velocidad de funcionamiento (4,8 V): segundos/60 °
+Velocidad de funcionamiento (6 V): 0,10 segundos/60 °
+Par de parada (4,8 V): 3,35 kg cm
+Par de parada (6 V): 4.52kg.cm
+Dimensiones: 35,5x15x30mm
+Longitud del cable del conector: aproximadamente 130mm
+Rodamiento: 2BB
+Peso: 25,65g
